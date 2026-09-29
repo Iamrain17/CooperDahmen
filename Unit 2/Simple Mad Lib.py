@@ -17,6 +17,6 @@ noun_3 = input ("Give me a noun of a second character \n> ")
 adjective_4 = input ("Describe how the first character felt \n> ")
 emotion = input ("Describe the emotions the first character is feeling \n> ")
 
-print ("-----------------------------------------------------------------------------------")
+print ("------------------------------------------------------------------------------------")
 
 print("Once upon a time, In a " + adjective_1 + noun_1 + " there lived a " + adjective_2 + noun_2 + ". Every day, the " + noun_2 + " would " + verb_1 + adverb + ". One day, a " + adjective_3 + noun_3 + " appeared and, " + verb_2 + " the " + noun_3 + " away. The " + noun_3 + " was " + adjective_4 + " and " + emotion +". ")
