@@ -1,0 +1,5 @@
+word_1 = input ("Give me a word. \n> ")
+word_2 = input ("Give me a second word. \n> ")
+word_3 = input ("Give me a third word. \n> ")
+print("-----------------------------------------------")
+print (word_1 + ", " + word_2 + ", " + word_3 + ".")
