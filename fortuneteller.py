@@ -21,3 +21,6 @@ elif fortune < 25:
     print("You're joining the U.S. Air Force")
 elif fortune < 30:
     print("You're joining the U.S. Coast Guard")
+else:
+    print("Invalid Input. Please try again")
+    fortune()
